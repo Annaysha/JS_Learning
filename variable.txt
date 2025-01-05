@@ -1,0 +1,15 @@
+1. Variable names must start with a letter, underscore (_), or dollar sign ($).
+2. Subsequent characters can also include digits (0-9).
+3. Variable names are case-sensitive (e.g., myVar and myvar are different variables).
+4. Reserved words (like var, let, const, function, etc.) cannot be used as variable names.
+5. Variable names should be descriptive and meaningful to improve code readability.
+6. Example of declaring a variable:
+
+
+// how to declare a variable
+var person = "shorove"
+
+
+Data types :
+1. Primitive data types [number, string, boolean, undefined, null]
+2. Non-Primitive data types [array, object, function]
